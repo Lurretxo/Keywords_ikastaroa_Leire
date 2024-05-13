@@ -117,7 +117,7 @@ body {
 /* HEADER */
 .chatbox__header {
  position: sticky;
-    background: #cc3;
+    background: #38D765;
     display: flex;
     flex-direction: row;
     align-items: center;
