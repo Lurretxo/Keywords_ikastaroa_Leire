@@ -19,22 +19,14 @@ def clean_text(query):
     if sentence.endswith('.') or sentence.endswith(',') or sentence.endswith(';') or sentence.endswith(':'):
         sentence = sentence[:-1]
 
-    #Esaldiari azkenengo ? kendu
-    if sentence.endswith('?'):
+    #Esaldiari azkenengo ? edo ! kendu
+    if sentence.endswith('?') or sentence.endswith('!'):
         sentence = sentence[:-1]
     
-    #Esaldiari hasierako ¿ kendu
-    if sentence.startswith('¿'):
+    #Esaldiari hasierako ¿ edo ¡ kendu
+    if sentence.startswith('¿') or sentence.startswith('¡'):
         sentence = sentence[1:]
-
-    #Esaldiari azkenengo ! kendu
-     #if sentence.endswith('!'):
-      #  sentence = sentence[:-1]
-
-     #Esaldiari hasierako ¡ kendu
-        if sentence.startswith('¡'):
-            sentence = sentence[1:]
-    
+ 
     tildes = ['á','é','í','ó','ú','ü']
     vocales = ['a','e','i','o','u','u']
    
