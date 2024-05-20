@@ -32,9 +32,9 @@ keywords = {
     "pre-matricularme": "request_pre_matricula",
     "pre-matricular": "request_pre_matricula",
     "pre-matriculacion": "request_pre_matricula",
-    "inscripcion": "request_pre_matricula",
-    "inscribirme": "request_pre_matricula",
-    "inscribir": "request_pre_matricula",
+    "inscripcion": "request_matricula_prematricula",
+    "inscribirme": "request_matricula_prematricula",
+    "inscribir": "request_matricula_prematricula",
     
 
     "matricula" : "request_matricula",
@@ -90,7 +90,7 @@ answer = {
     "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: xxx (URL)", 
     "request_contacto" : "Los datos de contacto del centro son: Teléfono: XXX XXX XXX. Email: xxxxxxx@gmail.com ",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
-
+    "request_matricula_prematricula": "Perdona, ¿qué información te interesa, sobre la matrícula o la prematrícula", 
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 }
 
