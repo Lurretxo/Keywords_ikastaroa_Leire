@@ -5,18 +5,20 @@ keywords = {
     "buenos": "request_saludo",
     "buen": "request_saludo",
     "holi": "request_saludo",
-    
+    "tardes": "request_saludo",
 
     "adios": "request_despedida",
     "hasta": "request_despedida",
     "luego": "request_despedida",
     "vista": "request_despedida",
     "agur": "request_despedida",
+    "aio": "request_despedida",
 
  
     "horario": "request_contacto_horarios",
     "hora": "request_contacto_horarios",
     "abre": "request_contacto_horarios",
+    "cierra": "request_contacto_horarios",
     "abierta": "request_contacto_horarios",
     "secretaria": "request_contacto_horarios",
     "horarios": "request_contacto_horarios",
