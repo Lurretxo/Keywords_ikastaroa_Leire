@@ -6,6 +6,7 @@ keywords = {
     "buen": "request_saludo",
     "holi": "request_saludo",
     "tardes": "request_saludo",
+    "kaixo": "request_saludo",
 
     "adios": "request_despedida",
     "hasta": "request_despedida",
@@ -22,6 +23,7 @@ keywords = {
     "abierta": "request_contacto_horarios",
     "secretaria": "request_contacto_horarios",
     "horarios": "request_contacto_horarios",
+    "orario": "request_contacto_horarios",
 
 
     "prematricula" : "request_pre_matricula",
