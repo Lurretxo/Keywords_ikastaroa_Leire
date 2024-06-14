@@ -80,6 +80,13 @@ keywords = {
     "titulacion": "request_oferta",
     "formacion": "request_oferta",
     "formaciones": "request_oferta",
+
+    "precio": "request_precios",
+    "coste": "request_precios",
+    "pago": "request_precios",
+    "precios": "prequest_precios",
+    "costes": "request_precios",
+    "dinero": "request_precios",
     
 
 }
