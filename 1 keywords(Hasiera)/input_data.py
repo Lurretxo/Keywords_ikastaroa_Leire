@@ -105,7 +105,7 @@ answer = {
     "request_direccion" : "La dirección del centro es: Calle xxxxxxx Aretxabalea.",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
     "request_matricula_prematricula": "Perdona, ¿qué información te interesa, sobre la matrícula o la prematrícula?", 
-    "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
+    "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta",
     "request_precios": "El precio de la matrícula por curso es de XX euros, y el pago se realiza al inicio de curso",   
 }
 
